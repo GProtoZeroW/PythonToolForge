@@ -5,6 +5,6 @@ I am not a programmer so these are not optimized code that should end up directl
 
 Note! At this time, I am still new to GitHub / also I can’t spell and my grammar is terrible so yeah. 
 Below is a list of things that are or will be undergoing forging as I get around to them (I am back in college right now so yeah time crunch):
-*A more automated [Lampdfiy](http://docs.sympy.org/latest/modules/utilities/lambdify.html) for the [SymPy Library](http://www.sympy.org/en/index.html)
-*A more integrated/automated toolset for scientific plots in matplotlib 
-*Integration of [xarray](http://xarray.pydata.org/en/stable/) and [yt](http://yt-project.org/) just as [pandas and matplotlib](http://pandas.pydata.org/pandas-docs/stable/visualization.html) are. 
+* A more automated [Lampdfiy](http://docs.sympy.org/latest/modules/utilities/lambdify.html) for the [SymPy Library](http://www.sympy.org/en/index.html)
+* A more integrated/automated toolset for scientific plots in matplotlib 
+* Integration of [xarray](http://xarray.pydata.org/en/stable/) and [yt](http://yt-project.org/) just as [pandas and matplotlib](http://pandas.pydata.org/pandas-docs/stable/visualization.html) are. 
