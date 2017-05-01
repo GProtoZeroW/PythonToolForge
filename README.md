@@ -1,1 +1,10 @@
-This is a ipython/jupyter notebook where I am developing tools for SymPy for my own work and anyone who wants to use them
+PythonToolForge
+
+This is where I am forging my python weapons for Science/ to assist me optimizing my python workflow in Physics/EE work that I do. 
+I am not a programmer so these are not optimized code that should end up directly into the main libraries that the tools are being forged. But may contribute to those libraries developers integrating the ideas that I have forged here into their libraries. And anyone who wants to contribute to this forge is welcome to.  A huge shootout to those who have posted their code online and asked/answered questions on StackOverflow. Those contributions are allowing me to make my contribution. 
+
+Note! At this time, I am still new to GitHub / also I can’t spell and my grammar is terrible so yeah. 
+Below is a list of things that are or will be undergoing forging as I get around to them (I am back in college right now so yeah time crunch):
+A more automated Lampdfiy for the SymPy Library
+A more integrated/automated toolset for scientific plots in matplotlib 
+Integration of xarray and yt just as pandas and matplotlib are. 
